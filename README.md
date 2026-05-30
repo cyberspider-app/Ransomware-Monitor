@@ -31,6 +31,8 @@ Ranked views of the top five threat actors, countries, and reporting sources by 
 
 All sources are publicly available open-source intelligence feeds. No proprietary data, no vendor relationships, no paywalled content.
 
+Big thanks for all their hard work and efforts in making this possible. Without them, Ransomware Monitor would not exist.
+
 # PRIVACY
 No account required. No user data collected. No analytics, no tracking, no third-party SDKs. The only data stored on-device is a small set of card identifiers used to prevent duplicate notifications — nothing leaves your device.
 
