@@ -36,3 +36,31 @@ No account required. No user data collected. No analytics, no tracking, no third
 
 FREE
 No ads. No in-app purchases. No subscription tiers. No data colected. Every feature is available to every user.
+
+---
+
+# Support the Project
+
+**Ransomware Monitor** is an independent, passion-driven app built to help everyday users stay informed about ransomware threats. It is developed and maintained by a single developer in their spare time.
+
+If the app has been useful to you and you'd like to help keep it going, consider buying me a coffee. Every contribution goes directly toward continued development, data sources, and keeping the app free.
+
+## Buy Me a Coffee ☕
+
+**[Donate via PayPal](https://paypal.me/threatmonitor)**
+
+No amount is too small and nothing is expected — the app will always be free regardless. But if you'd like to show your support, it means a lot and keeps the project alive.
+
+## Other Ways to Support
+
+Not in a position to donate? No worries at all. You can still help by:
+
+- ⭐ Starring the repo on GitHub
+- 🐛 Reporting bugs via [GitHub Issues](https://github.com/cyberspider-app/Ransomware-Monitor/issues)
+- 💡 Submitting [feature requests](FEATURE_REQUESTS.md)
+- 📣 Sharing the app with others who care about security
+
+---
+
+*Thank you for using Ransomware Monitor and for supporting independent development.*
+
